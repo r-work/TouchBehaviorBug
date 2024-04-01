@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchBehaviorBug", "TouchBehaviorBug\TouchBehaviorBug.csproj", "{B418B431-3D7D-4D31-99EC-6A5821D7408B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B418B431-3D7D-4D31-99EC-6A5821D7408B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B418B431-3D7D-4D31-99EC-6A5821D7408B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B418B431-3D7D-4D31-99EC-6A5821D7408B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B418B431-3D7D-4D31-99EC-6A5821D7408B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B418B431-3D7D-4D31-99EC-6A5821D7408B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B418B431-3D7D-4D31-99EC-6A5821D7408B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {179A5445-71FF-40FD-BCA7-1800462FFDCD}
+	EndGlobalSection
+EndGlobal
